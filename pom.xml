@@ -141,6 +141,7 @@ LICENSE file.
     <module>solr</module>
     <module>solr6</module>
     <module>tarantool</module>
+    <module>hyperds</module>
     <!--<module>voldemort</module>-->
   </modules>
 
